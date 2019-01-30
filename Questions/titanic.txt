@@ -1,0 +1,32 @@
+QUESTION:
+    I wonder if the people who survived the titanic paid higher fares than the people who died?
+
+ANSWER:
+    Median fare for people who died: $10.50
+    Median fare for people who survived: $26.00
+    Clearly the people who had better financial statuses were more likely to survive than those who did not.
+
+
+QUESTION:
+    I wonder if the people who survived the titanic were moreso in the upper class?
+
+ANSWER:
+    First Class Survivors: 136
+    Second Class Survivors: 87
+    Third Class Survivors: 119
+    Conclusion: There does not appear to be a corolation between class and survival rate.
+
+QUESTION:
+    Since they let women and children board the life boats first, I wonder if the amount of women survivors were much more than men?
+
+ANSWER:
+    Men Survivors (above the age of 18): 69
+    Women and children survivors: 372
+    
+    Total Men on Board: 382
+    Total Women and Children on Board: 453
+
+    Men who survived: %18
+    Women and children who survived: %82
+
+    Conclusion: There was certainly a higher survival rate for women and children than there were for men.
