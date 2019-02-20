@@ -31,11 +31,16 @@ def makeNewCSV():
     f = open('combined.csv', 'w')
     f.write(out)
     f.close()
+
+def getQuestions():
+    questions = []
+    for f in files:
+        with open(f, 'r') as text:
+            questions.extend(text.read().split('\n')[0].split(','))
+    return questions
+
+[print(q) for q in getQuestions()]
+
     
 
 makeNewCSV()
-
-
-
-            
-
